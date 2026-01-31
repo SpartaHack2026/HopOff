@@ -9,3 +9,7 @@ export const colors = {
   mediumGreen: '#79D3BE',
   darkGreen: '#39B89A',
 };
+
+//use by
+//import { colors } from '../../theme/colors';
+//background: colors.background
