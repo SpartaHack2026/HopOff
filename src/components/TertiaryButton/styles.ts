@@ -1,4 +1,5 @@
 import { StyleSheet } from 'react-native';
+import { colors } from '../../theme/colors';
 
 export const styles = StyleSheet.create({
   button: {
@@ -10,7 +11,7 @@ export const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   buttonText: {
-    color: '#000000',
+    color: colors.textPrimary,
     fontSize: 16,
     fontWeight: '600',
     textDecorationLine: 'underline',
