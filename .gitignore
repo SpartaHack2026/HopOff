@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+
+# react native
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/app/.cxx/
+android/app/.externalNativeBuild/
+android/app/build/intermediates/
+android/app/build/outputs/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+
+# metro / caches
+*.log
+.tmp/
