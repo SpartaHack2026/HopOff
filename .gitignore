@@ -29,5 +29,5 @@ ios/build/
 *.xcworkspace
 
 # metro / caches
-*.log
 .tmp/
+
